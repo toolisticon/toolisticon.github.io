@@ -1,6 +1,6 @@
 ## Welcome to toolisticon
 
-bintray repositories:
+using bintray repositories ([overview](https://bintray.com/toolisticon/maven/)):
 
 ```gradle
 repositories {
