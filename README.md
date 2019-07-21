@@ -2,7 +2,7 @@
 
 bintray repositories:
 
-```
+```gradle
 repositories {
   maven("https://dl.bintray.com/toolisticon/maven/")
 }
