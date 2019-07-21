@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: toolisticon.io
+description: Open Source tools developed by holisticon.
+logo: holisticon-logo.png
+show_downloads: false
